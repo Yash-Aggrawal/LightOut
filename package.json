@@ -1,6 +1,6 @@
 {
-  "name": "cra1",
   "homepage": "https://Ninja-archer.github.io/LightOut",
+  "name": "cra1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
