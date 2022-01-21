@@ -1,4 +1,4 @@
-# This Project was created using ReactJS.[Play it here!](https://ninja-archer.github.io/LightOut/)
+# This Project was created using ReactJS.[Play it here!](https://yash-aggrawal.github.io/LightOut/)
 
 In the project directory, you can run:
 
